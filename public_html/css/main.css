@@ -6,7 +6,7 @@ html {
     color: #f5f3e5;
     text-shadow: 2px 2px 8px #5dfc0a;
 }
-p:hover {
+.me:hover {
     text-shadow: 2px 2px 8px #FFF730;
 }
 li {
