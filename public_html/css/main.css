@@ -1,0 +1,29 @@
+html {
+    font-family: 'Kreon', monospace;
+    serif; font-size: 10pt;
+    font-weight: bold;
+    background-color: #111;
+    color: #f5f3e5;
+    text-shadow: 2px 2px 8px #5dfc0a;
+}
+p:hover {
+    text-shadow: 2px 2px 8px #FFF730;
+}
+li {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+a {
+    text-decoration: none;
+    color: #f5f3e5;
+}
+a.me {
+    text-shadow: 2px 2px 8px #9D03E2;
+}
+.container {
+    position: relative;
+    width: 100%;
+    margin: 20 auto 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
